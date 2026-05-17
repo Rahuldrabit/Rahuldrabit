@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=M.Sc.+CS+%40+BUET+%7C+Google+Summer+of+Code+2025;Building+Evolutionary+Algorithms+%2B+GenAI+%2B+CV;7%2B+Open+Source+PRs+across+Major+Orgs;Always+open+to+research+collaborations+%F0%9F%9F%A2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=M.Sc.+CS+%40+BUET+%7C+Google+Summer+of+Code+2025;Building+Evolutionary+Algorithms+%2B+GenAI+%2B+Computer+Vision;7%2B+Open+Source+PRs+across+Major+Orgs;Always+open+to+research+collaborations+%F0%9F%9F%A2)](https://git.io/typing-svg)
 
 </div>
 
