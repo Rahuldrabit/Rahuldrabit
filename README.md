@@ -53,7 +53,7 @@ rahul = {
 | | Institution | Degree | Period |
 |--|-------------|--------|--------|
 | 🏛️ | **Bangladesh University of Engineering & Technology (BUET)** | M.Sc. Computer Science & Engineering | 2024 – 2026 |
-| 🎓 | **Mawlana Bhashani Science & Technology University** | B.Sc. Mathematics · CGPA 3.26/4.00 | 2018 – 2023 |
+| 🎓 | **Mawlana Bhashani Science & Technology University** | B.Sc. Mathematics  | 2018 – 2023 |
 
 ---
 
@@ -99,7 +99,7 @@ rahul = {
 | `openml/openml-python` | [#1679](https://github.com/openml/openml-python/pull/1679) | Replaced live network calls with local mocks for deterministic offline test execution |
 | `shap/shap` | [#4523](https://github.com/shap/shap/pull/4523) | Code review & design feedback improving correctness of explainability logic |
 | `shap/shap` | [#4440](https://github.com/shap/shap/pull/4440) | Fixed edge-case SHAP value inconsistencies + added stability tests |
-
+| `SREGym/SREGym` | [#1055](https://github.com/SREGym/SREGym/pull/1055) | Moved Kubernetes API proxy TLS handshake to worker thread to prevent blocking |
 ---
 
 ## 🚀 Projects
